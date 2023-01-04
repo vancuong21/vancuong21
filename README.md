@@ -1,4 +1,15 @@
 ### WELCOME TO MY PAGE 👋👋👋
+##HELLO MY FRIENDS,
+
+My name is Cuong, I have done graduation in Computer Engineering. I'm a Software Developer <!--by Profession but also like to make and upload videos on youtube.-->
+
+I make project videos using programming languages mainly using Java <!--and also make its tutorial videos.-->
+
+<!--From this channel, you'll be able to learn about programming language and also you'll get the ideas about functionalities of the project which you can implement in your projects.
+
+DO SUBSCRIBE TO MY CHANNEL FOR INTERESTING AND INFORMATIVE VIDEOS.-->
+
+KEEP LEARNING, KEEPING GROWING........
 
 <!--
 **vancuong21/vancuong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
