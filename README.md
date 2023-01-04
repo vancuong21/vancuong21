@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-###HELLO MY FRIENDS,
+### HELLO MY FRIENDS,
 
 My name is Cuong, I have done graduation in Computer Engineering. I'm a Software Developer <!--by Profession but also like to make and upload videos on youtube.-->
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=vancuong21&show_icons=true)
+![Cuong GitHub Stats](https://github-readme-stats.vercel.app/api?username=vancuong21&show_icons=true)
