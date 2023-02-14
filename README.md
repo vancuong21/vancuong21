@@ -10,9 +10,14 @@ My name is Cuong, I have done graduation in Computer Engineering. I'm a Software
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vancuong21&repo=petshopBE&theme=radical" />
 </a> 
 
+<a href="https://github.com/vancuong21/petshopFE/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vancuong21&repo=petshopFE&theme=radical" />
+</a>
+
 <a href="https://github.com/vancuong21/project2_2/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vancuong21&repo=project2_2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vancuong21&repo=project2_2&theme=merko" />
 </a> 
 
 <a href="https://github.com/vancuong21/project3/">
